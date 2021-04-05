@@ -1,0 +1,82 @@
+body{
+  font-family: arial,serif;
+  background-color: #000000;
+  line-height: 22px;
+  font-size: 16px;
+  color: #000000
+;
+}
+h1{
+  background-color: #000000;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+div{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.Drone{
+  border-width: 1px ;
+  text-align: justify;
+  background-color: #FFFFFF;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+
+}
+
+
+h2{
+margin: 0px;
+border-bottom: 1px;
+border-bottom-style: dashed;
+border-bottom-color: #7E9F19;
+
+}
+
+.Drone a{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+  text-align: right;
+  border-bottom: 1px;
+}
+
+ .link p{
+   border-bottom: 1px;
+   border-bottom-style: dashed;
+   border-bottom-color: #7E9F19;
+
+
+}
+.Drone a:hover{
+  color: #DC143C;
+}
+.link {
+  margin: auto;
+  text-align: right;
+  border: none;
+}
+img{
+  width: 120px;
+  height: 150px;
+  border: 1px solid;
+  border-color: #7E9F19;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 2px;
+  float: left;
+}
+.fim{
+  font-size: 12px;
+  color: #FFFFFF;
+  text-align: center;
+}
